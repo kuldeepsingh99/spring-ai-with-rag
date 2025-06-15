@@ -1,0 +1,34 @@
+Welcome to ola Auto Car Rental. We appreciate your interest in using our services for your transportation needs. Below are the terms and conditions that govern your use of our services. Please read these terms carefully before making any reservations.
+
+1. Types of car rental offered
+- Economy Car: ₹1000 per day
+- Luxury Car: ₹5000 per day
+- SUV: ₹3000 per day
+
+2. Booking and Payment
+To book a car rental with ola Auto Car Rental, please follow these steps:
+- Visit our website or contact us via phone or email.
+- Select the type of car you require (Economy, Luxury, or SUV).
+- Choose the make and model of the car from the provided list.
+- Review the pricing for the selected car.
+- Provide your contact information and preferred date and time for the rental.
+- Confirm your reservation by making the required payment.
+- You will receive a confirmation of your booking via email or phone.
+
+3. Cancellation and Refund Policy
+Cancellations and refunds are subject to the following terms:
+- Any cancellation before 72 hours of the start of the rental will be fully refunded.
+- Any cancellation before 24 hours of the start of the rental will incur a 50% cancellation fee + ₹200 service fee.
+- Any cancellation within 24 hours and up to the start of the rental will incur a 75% cancellation fee + ₹500 service fee.
+- Any cancellation made after the rental has started will be non-refundable. No-show will be treated in the same way.
+- Partial cancellation is not allowed. If one member of the party cancels, the entire reservation will be cancelled.
+
+4. Contact Information
+If you have any questions about these Terms & Conditions, please contact us at:
+- Email:olarental@test.com
+- Phone: +91-1234567890
+
+5. Brands available
+- Economy Car: Maruti Suzuki Swift, Hyundai i20, Tata Tiago
+- Luxury Car: BMW 5 Series, Audi A6, Mercedes-Benz E-Class
+- SUV: Toyota Fortuner, Ford Endeavour, Mahindra XUV700

@@ -1,0 +1,31 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5438/pgvector
+    username: pguser
+    password: pgpassword
+
+  liquibase:
+    change-log: classpath:db/changelog/changelog-master.xml
+    enabled: true
+
+  ai:
+    ollama:
+      embedding:
+        model: llama3.2
+        options:
+          model: llama3.2:latest
+        enabled: true
+      chat:
+        model: llama3.2
+        options:
+          model: llama3.2:latest
+  vectorstore:
+    pgvector:
+    index-type: HNSW
+    distance-type: COSINE_DISTANCE
+    dimensions: 3072
+    max-document-batch-size: 10000
+
+
+server:
+  port: 9191
